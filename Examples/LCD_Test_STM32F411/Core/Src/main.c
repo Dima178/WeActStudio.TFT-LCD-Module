@@ -98,6 +98,7 @@ int main(void)
   LCD_Init();
 
   HAL_Delay(100);
+	
   HAL_TIM_PWM_Start(&htim9, TIM_CHANNEL_2);
   __HAL_TIM_SetCompare(&htim9, TIM_CHANNEL_2, 30);
 
