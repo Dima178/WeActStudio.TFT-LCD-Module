@@ -733,7 +733,7 @@ ARM Macro Assembler    Page 12
 Command Line: --debug --xref --diag_suppress=9931,A1950W --cpu=Cortex-M4.fp.sp 
 --depend=lcd_test_stm32f411\startup_stm32f411xe.d -olcd_test_stm32f411\startup_
 stm32f411xe.o -I.\RTE\_LCD_Test_STM32F411 -IC:\Users\andreev\AppData\Local\Arm\
-Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include -IC:\Users\andreev\AppData\Local\Arm\P
+Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include -IC:\Users\andreev\AppData\Local\Arm\P
 acks\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include --pred
 efine="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 539" --predefine=
 "_RTE_ SETA 1" --predefine="STM32F411xE SETA 1" --predefine="_RTE_ SETA 1" --li
